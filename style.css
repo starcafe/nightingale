@@ -14,8 +14,6 @@ canvas {
   right: 0;
   padding-top: 30px;
   margin: auto;
-  width: 300px !important;
-  height: 460px !important;
 }
 
 #p5_loading {
