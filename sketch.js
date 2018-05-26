@@ -10,7 +10,7 @@ function preload() {
 
 function setup() {
   pixelDensity(1);
-  canvas = createCanvas(500, 800);
+  canvas = createCanvas(1440, 1440);
   canvas.parent('sketch');
   image(img, 0, 0);
 
